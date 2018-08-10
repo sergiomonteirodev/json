@@ -1,0 +1,66 @@
+{
+  "comunicados": [
+    {
+      
+      "numero_comunicado": 20180800010,
+      "processo": 1234567890123456800,
+      "login_emitente": "username0",
+      "nome_emitente": "Nome Sobrenome 0",
+      "destinatario": "username9",
+      "oficio": 9,      
+      "autor": "Autor Teste",
+      "mensagem": "Mensagem teste 9",
+      "assunto": "Assunto 9",
+      "created_at": "2018-08-05T22:33:29.242023Z",
+      "updated_at": "2018-08-05T22:33:29.242067Z",
+      "status": null,
+      "anexos": []
+    },
+    {
+
+      "numero_comunicado": 20180800009,
+      "processo": 1234567890123456800,
+      "login_emitente": "username0",
+      "nome_emitente": "Nome Sobrenome 0",
+      "destinatario": "username9",
+      "oficio": 8,
+      "autor": "Autor Teste",
+      "mensagem": "Mensagem teste 8",
+      "assunto": "Assunto 8",
+      "created_at": "2018-08-05T22:33:29.220084Z",
+      "updated_at": "2018-08-05T22:33:29.220101Z",
+      "status": null,
+      "anexos": []
+    },
+    {
+      "numero_comunicado": 20180800008,
+      "processo": 1234567890123456800,
+      "login_emitente": "username0",
+      "nome_emitente": "Nome Sobrenome 0",
+      "destinatario": "username9",
+      "oficio": 7,
+      "autor": "Autor Teste",
+      "mensagem": "Mensagem teste 7",
+      "assunto": "Assunto 7",
+      "created_at": "2018-08-05T22:33:29.207508Z",
+      "updated_at": "2018-08-05T22:33:29.207534Z",
+      "status": null,
+      "anexos": []
+    },
+    {
+      "numero_comunicado": 20180800004,
+      "processo": 1234567890123456800,
+      "login_emitente": "username78",
+      "nome_emitente": "Nome Sobrenome 0",
+      "destinatario": "username9",
+      "oficio": 3,
+      "autor": "Autor Teste",
+      "mensagem": "Mensagem teste 3",
+      "assunto": "Assunto 3",
+      "created_at": "2018-08-05T22:33:29.133098Z",
+      "updated_at": "2018-08-05T22:33:29.133128Z",
+      "status": null,
+      "anexos": []
+    }
+  ]
+}
