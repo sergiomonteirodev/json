@@ -1,14 +1,13 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{ "processos": [
+    {
+        "id": 1,
+        "numero": "0000179-47.2019.5.07.0001",
+        "pasta": "43686",
+        "comarca": null,
+        "uf": null,
+        "vara": "1ª Vara do Trabalho, TRT CEARA - 1º GRAU - FORTALEZA",
+        "cliente": null,
+        "data_insert": "2019-03-12 10:36:33"
+    }
+]
 }
